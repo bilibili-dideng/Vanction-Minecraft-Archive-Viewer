@@ -1,4 +1,5 @@
 import nbtlib
+import os
 
 
 class MinecraftSaver:
