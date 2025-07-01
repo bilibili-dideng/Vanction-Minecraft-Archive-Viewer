@@ -1,0 +1,65 @@
+{
+    "theme": "light",
+    "themes": {
+        "light": {
+            "bg": "#f0f0f0",
+            "fg": "black",
+            "entry_bg": "white",
+            "text_bg": "white",
+            "text_fg": "black",
+            "button_bg": "#4CAF50",
+            "button_fg": "white",
+            "label_bg": "#f0f0f0"
+        },
+        "dark": {
+            "bg": "#2d2d2d",
+            "fg": "white",
+            "entry_bg": "#1e1e1e",
+            "text_bg": "#1e1e1e",
+            "text_fg": "white",
+            "button_bg": "#3a3a3a",
+            "button_fg": "white",
+            "label_bg": "#2d2d2d"
+        },
+        "redstone": {
+            "bg": "#2b0f0f",
+            "fg": "white",
+            "entry_bg": "#4a1d1d",
+            "text_bg": "#4a1d1d",
+            "text_fg": "white",
+            "button_bg": "#8B0000",
+            "button_fg": "white",
+            "label_bg": "#2b0f0f"
+        },
+        "nether": {
+            "bg": "#1c1c2e",
+            "fg": "white",
+            "entry_bg": "#2e2e4a",
+            "text_bg": "#2e2e4a",
+            "text_fg": "white",
+            "button_bg": "#cc6600",
+            "button_fg": "white",
+            "label_bg": "#1c1c2e"
+        },
+        "end": {
+            "bg": "#2d003a",
+            "fg": "white",
+            "entry_bg": "#4a2a5a",
+            "text_bg": "#4a2a5a",
+            "text_fg": "white",
+            "button_bg": "#6a0dad",
+            "button_fg": "white",
+            "label_bg": "#2d003a"
+        },
+        "123": {
+            "bg": "#0080c0",
+            "fg": "#000000",
+            "entry_bg": "#004080",
+            "text_bg": "#4a2a5a",
+            "text_fg": "#004080",
+            "button_bg": "#004080",
+            "button_fg": "#000000",
+            "label_bg": "#004080"
+        }
+    }
+}
