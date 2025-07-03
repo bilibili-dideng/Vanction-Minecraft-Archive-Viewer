@@ -27,4 +27,8 @@ Vanction Minecraft Archive Viewer 可以让你查看到Minecraft的存档
 
   X=-50.89, Y=-58.00, Z=8.69
 
-  
+背包信息:
+
+XXXXXXXXXXXXXX
+
+...
