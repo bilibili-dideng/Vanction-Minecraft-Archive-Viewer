@@ -1,5 +1,5 @@
 {
-    "theme": "dark",
+    "theme": "light",
     "themes": {
         "light": {
             "bg": "#f0f0f0",
@@ -50,6 +50,16 @@
             "button_bg": "#6a0dad",
             "button_fg": "white",
             "label_bg": "#2d003a"
+        },
+        "blue": {
+            "bg": "#0080ff",
+            "fg": "#000040",
+            "entry_bg": "#0080ff",
+            "text_bg": "#0080ff",
+            "text_fg": "#000040",
+            "button_bg": "#0080ff",
+            "button_fg": "#000040",
+            "label_bg": "#0080ff"
         }
     }
 }

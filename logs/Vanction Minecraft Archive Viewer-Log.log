@@ -1,0 +1,1096 @@
+[2025-07-03 16:42:51] INFO: 主题配置已从 JSON 加载
+[2025-07-03 16:42:51] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 16:42:52] INFO: 应用启动成功
+[2025-07-03 16:42:58] INFO: 主题配置已从 JSON 加载
+[2025-07-03 16:42:59] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 16:42:59] INFO: 应用启动成功
+[2025-07-03 16:45:54] INFO: 主题配置已从 JSON 加载
+[2025-07-03 16:45:54] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 16:45:54] INFO: 应用启动成功
+[2025-07-03 16:45:59] INFO: 主题配置已从 JSON 加载
+[2025-07-03 16:46:00] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 16:46:00] INFO: 应用启动成功
+[2025-07-03 16:46:48] INFO: 主题配置已从 JSON 加载
+[2025-07-03 16:46:49] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 16:46:49] INFO: 应用启动成功
+[2025-07-03 16:47:06] INFO: 成功获取世界信息、玩家坐标、背包数据
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: {'世界名称': 'Lianji', '游戏模式': '创造模式', '出生点': {'x': 0, 'y': -60, 'z': 0}, '世界时间': 12867, '最后保存时间': 1751445095091, '世界难度': '和平'}
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: '世界名称'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: 'Lianji'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: '游戏模式'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: '创造模式'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: '出生点'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: {'x': 0, 'y': -60, 'z': 0}
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: 'x'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: 0
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: 'y'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: -60
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: 'z'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: 0
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: '世界时间'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: 12867
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: '最后保存时间'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: 1751445095091
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: '世界难度'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: '和平'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: {'x': -22.63179535642925, 'y': -60.0, 'z': 2.6328721763980214}
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: 'x'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: -22.63179535642925
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: 'y'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: -60.0
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: 'z'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: 2.6328721763980214
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: '主世界'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: [{'槽位': 0, '物品ID': 'minecraft:command_block', '数量': 1, 'NBT': None}, {'槽位': 1, '物品ID': 'minecraft:dirt', '数量': 49, 'NBT': None}, {'槽位': 2, '物品ID': 'minecraft:netherite_ingot', '数量': 64, 'NBT': None}, {'槽位': 3, '物品ID': 'minecraft:anvil', '数量': 1, 'NBT': None}, {'槽位': 4, '物品ID': 'minecraft:diamond_sword', '数量': 1, 'NBT': Compound({'Damage': Int(0), 'Enchantments': List[Compound]([Compound({'id': String('minecraft:sweeping'), 'lvl': Short(3)}), Compound({'id': String('minecraft:sharpness'), 'lvl': Short(5)})]), 'RepairCost': Int(3)})}, {'槽位': 5, '物品ID': 'minecraft:diamond_sword', '数量': 1, 'NBT': Compound({'Damage': Int(0)})}, {'槽位': 6, '物品ID': 'minecraft:enchanted_book', '数量': 1, 'NBT': Compound({'StoredEnchantments': List[Compound]([Compound({'id': String('minecraft:sharpness'), 'lvl': Short(5)})])})}, {'槽位': 7, '物品ID': 'minecraft:enchanted_book', '数量': 1, 'NBT': Compound({'StoredEnchantments': List[Compound]([Compound({'id': String('minecraft:sweeping'), 'lvl': Short(3)})])})}, {'槽位': 8, '物品ID': 'minecraft:damaged_anvil', '数量': 1, 'NBT': None}]
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: {'槽位': 0, '物品ID': 'minecraft:command_block', '数量': 1, 'NBT': None}
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: '槽位'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: 0
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: '物品ID'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: 'minecraft:command_block'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: '数量'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: 1
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: 'NBT'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: None
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: {'槽位': 1, '物品ID': 'minecraft:dirt', '数量': 49, 'NBT': None}
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: '槽位'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: 1
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: '物品ID'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: 'minecraft:dirt'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: '数量'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: 49
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: 'NBT'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: None
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: {'槽位': 2, '物品ID': 'minecraft:netherite_ingot', '数量': 64, 'NBT': None}
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: '槽位'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: 2
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: '物品ID'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: 'minecraft:netherite_ingot'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: '数量'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: 64
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: 'NBT'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: None
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: {'槽位': 3, '物品ID': 'minecraft:anvil', '数量': 1, 'NBT': None}
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: '槽位'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: 3
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: '物品ID'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: 'minecraft:anvil'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: '数量'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: 1
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: 'NBT'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: None
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: {'槽位': 4, '物品ID': 'minecraft:diamond_sword', '数量': 1, 'NBT': Compound({'Damage': Int(0), 'Enchantments': List[Compound]([Compound({'id': String('minecraft:sweeping'), 'lvl': Short(3)}), Compound({'id': String('minecraft:sharpness'), 'lvl': Short(5)})]), 'RepairCost': Int(3)})}
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: '槽位'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: 4
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: '物品ID'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: 'minecraft:diamond_sword'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: '数量'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: 1
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: 'NBT'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: Compound({'Damage': Int(0), 'Enchantments': List[Compound]([Compound({'id': String('minecraft:sweeping'), 'lvl': Short(3)}), Compound({'id': String('minecraft:sharpness'), 'lvl': Short(5)})]), 'RepairCost': Int(3)})
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: 'Damage'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: Int(0)
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: 'Enchantments'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: List[Compound]([Compound({'id': String('minecraft:sweeping'), 'lvl': Short(3)}), Compound({'id': String('minecraft:sharpness'), 'lvl': Short(5)})])
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: Compound({'id': String('minecraft:sweeping'), 'lvl': Short(3)})
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: 'id'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: String('minecraft:sweeping')
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: 'lvl'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: Short(3)
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: Compound({'id': String('minecraft:sharpness'), 'lvl': Short(5)})
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: 'id'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: String('minecraft:sharpness')
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: 'lvl'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: Short(5)
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: 'RepairCost'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: Int(3)
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: {'槽位': 5, '物品ID': 'minecraft:diamond_sword', '数量': 1, 'NBT': Compound({'Damage': Int(0)})}
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: '槽位'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: 5
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: '物品ID'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: 'minecraft:diamond_sword'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: '数量'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: 1
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: 'NBT'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: Compound({'Damage': Int(0)})
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: 'Damage'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: Int(0)
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: {'槽位': 6, '物品ID': 'minecraft:enchanted_book', '数量': 1, 'NBT': Compound({'StoredEnchantments': List[Compound]([Compound({'id': String('minecraft:sharpness'), 'lvl': Short(5)})])})}
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: '槽位'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: 6
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: '物品ID'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: 'minecraft:enchanted_book'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: '数量'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: 1
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: 'NBT'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: Compound({'StoredEnchantments': List[Compound]([Compound({'id': String('minecraft:sharpness'), 'lvl': Short(5)})])})
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: 'StoredEnchantments'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: List[Compound]([Compound({'id': String('minecraft:sharpness'), 'lvl': Short(5)})])
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: Compound({'id': String('minecraft:sharpness'), 'lvl': Short(5)})
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: 'id'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: String('minecraft:sharpness')
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: 'lvl'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: Short(5)
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: {'槽位': 7, '物品ID': 'minecraft:enchanted_book', '数量': 1, 'NBT': Compound({'StoredEnchantments': List[Compound]([Compound({'id': String('minecraft:sweeping'), 'lvl': Short(3)})])})}
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: '槽位'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: 7
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: '物品ID'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: 'minecraft:enchanted_book'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: '数量'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: 1
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: 'NBT'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: Compound({'StoredEnchantments': List[Compound]([Compound({'id': String('minecraft:sweeping'), 'lvl': Short(3)})])})
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: 'StoredEnchantments'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: List[Compound]([Compound({'id': String('minecraft:sweeping'), 'lvl': Short(3)})])
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: Compound({'id': String('minecraft:sweeping'), 'lvl': Short(3)})
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: 'id'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: String('minecraft:sweeping')
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: 'lvl'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: Short(3)
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: {'槽位': 8, '物品ID': 'minecraft:damaged_anvil', '数量': 1, 'NBT': None}
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: '槽位'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: 8
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: '物品ID'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: 'minecraft:damaged_anvil'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: '数量'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: 1
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: 'NBT'
+[2025-07-03 16:47:06] DEBUG: 转换 NBT 数据: None
+[2025-07-03 16:47:06] DEBUG: 转换世界时间: 12867
+[2025-07-03 16:47:06] INFO: 世界时间转换结果: 0 天 12 小时 52 分钟
+[2025-07-03 16:47:06] DEBUG: 转换现实时间: 1751445095091
+[2025-07-03 16:47:06] INFO: 现实时间转换结果: 2025-07-02 08:31:35 UTC
+[2025-07-03 16:47:06] DEBUG: 开始处理 NBT 数据: None
+[2025-07-03 16:47:06] DEBUG: 开始处理 NBT 数据: None
+[2025-07-03 16:47:06] DEBUG: 开始处理 NBT 数据: None
+[2025-07-03 16:47:06] DEBUG: 开始处理 NBT 数据: None
+[2025-07-03 16:47:06] DEBUG: 开始处理 NBT 数据: {'Damage': Int(0), 'Enchantments': [{'id': String('minecraft:sweeping'), 'lvl': Short(3)}, {'id': String('minecraft:sharpness'), 'lvl': Short(5)}], 'RepairCost': Int(3)}
+[2025-07-03 16:47:06] DEBUG: 开始转换罗马数字: 3
+[2025-07-03 16:47:06] INFO: 罗马数字转换结果: III
+[2025-07-03 16:47:06] DEBUG: 开始转换罗马数字: 5
+[2025-07-03 16:47:06] INFO: 罗马数字转换结果: V
+[2025-07-03 16:47:06] DEBUG: 开始处理 NBT 数据: {'Damage': Int(0)}
+[2025-07-03 16:47:06] DEBUG: 开始处理 NBT 数据: {'StoredEnchantments': [{'id': String('minecraft:sharpness'), 'lvl': Short(5)}]}
+[2025-07-03 16:47:06] DEBUG: 开始处理 NBT 数据: {'StoredEnchantments': [{'id': String('minecraft:sweeping'), 'lvl': Short(3)}]}
+[2025-07-03 16:47:06] DEBUG: 开始处理 NBT 数据: None
+[2025-07-03 16:48:17] INFO: 成功获取世界信息、玩家坐标、背包数据
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: {'世界名称': 'Lianji', '游戏模式': '创造模式', '出生点': {'x': 0, 'y': -60, 'z': 0}, '世界时间': 12867, '最后保存时间': 1751445095091, '世界难度': '和平'}
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: '世界名称'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: 'Lianji'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: '游戏模式'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: '创造模式'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: '出生点'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: {'x': 0, 'y': -60, 'z': 0}
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: 'x'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: 0
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: 'y'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: -60
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: 'z'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: 0
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: '世界时间'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: 12867
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: '最后保存时间'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: 1751445095091
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: '世界难度'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: '和平'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: {'x': -22.63179535642925, 'y': -60.0, 'z': 2.6328721763980214}
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: 'x'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: -22.63179535642925
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: 'y'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: -60.0
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: 'z'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: 2.6328721763980214
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: '主世界'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: [{'槽位': 0, '物品ID': 'minecraft:command_block', '数量': 1, 'NBT': None}, {'槽位': 1, '物品ID': 'minecraft:dirt', '数量': 49, 'NBT': None}, {'槽位': 2, '物品ID': 'minecraft:netherite_ingot', '数量': 64, 'NBT': None}, {'槽位': 3, '物品ID': 'minecraft:anvil', '数量': 1, 'NBT': None}, {'槽位': 4, '物品ID': 'minecraft:diamond_sword', '数量': 1, 'NBT': Compound({'Damage': Int(0), 'Enchantments': List[Compound]([Compound({'id': String('minecraft:sweeping'), 'lvl': Short(3)}), Compound({'id': String('minecraft:sharpness'), 'lvl': Short(5)})]), 'RepairCost': Int(3)})}, {'槽位': 5, '物品ID': 'minecraft:diamond_sword', '数量': 1, 'NBT': Compound({'Damage': Int(0)})}, {'槽位': 6, '物品ID': 'minecraft:enchanted_book', '数量': 1, 'NBT': Compound({'StoredEnchantments': List[Compound]([Compound({'id': String('minecraft:sharpness'), 'lvl': Short(5)})])})}, {'槽位': 7, '物品ID': 'minecraft:enchanted_book', '数量': 1, 'NBT': Compound({'StoredEnchantments': List[Compound]([Compound({'id': String('minecraft:sweeping'), 'lvl': Short(3)})])})}, {'槽位': 8, '物品ID': 'minecraft:damaged_anvil', '数量': 1, 'NBT': None}]
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: {'槽位': 0, '物品ID': 'minecraft:command_block', '数量': 1, 'NBT': None}
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: '槽位'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: 0
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: '物品ID'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: 'minecraft:command_block'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: '数量'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: 1
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: 'NBT'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: None
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: {'槽位': 1, '物品ID': 'minecraft:dirt', '数量': 49, 'NBT': None}
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: '槽位'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: 1
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: '物品ID'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: 'minecraft:dirt'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: '数量'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: 49
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: 'NBT'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: None
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: {'槽位': 2, '物品ID': 'minecraft:netherite_ingot', '数量': 64, 'NBT': None}
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: '槽位'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: 2
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: '物品ID'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: 'minecraft:netherite_ingot'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: '数量'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: 64
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: 'NBT'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: None
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: {'槽位': 3, '物品ID': 'minecraft:anvil', '数量': 1, 'NBT': None}
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: '槽位'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: 3
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: '物品ID'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: 'minecraft:anvil'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: '数量'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: 1
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: 'NBT'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: None
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: {'槽位': 4, '物品ID': 'minecraft:diamond_sword', '数量': 1, 'NBT': Compound({'Damage': Int(0), 'Enchantments': List[Compound]([Compound({'id': String('minecraft:sweeping'), 'lvl': Short(3)}), Compound({'id': String('minecraft:sharpness'), 'lvl': Short(5)})]), 'RepairCost': Int(3)})}
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: '槽位'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: 4
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: '物品ID'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: 'minecraft:diamond_sword'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: '数量'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: 1
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: 'NBT'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: Compound({'Damage': Int(0), 'Enchantments': List[Compound]([Compound({'id': String('minecraft:sweeping'), 'lvl': Short(3)}), Compound({'id': String('minecraft:sharpness'), 'lvl': Short(5)})]), 'RepairCost': Int(3)})
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: 'Damage'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: Int(0)
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: 'Enchantments'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: List[Compound]([Compound({'id': String('minecraft:sweeping'), 'lvl': Short(3)}), Compound({'id': String('minecraft:sharpness'), 'lvl': Short(5)})])
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: Compound({'id': String('minecraft:sweeping'), 'lvl': Short(3)})
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: 'id'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: String('minecraft:sweeping')
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: 'lvl'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: Short(3)
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: Compound({'id': String('minecraft:sharpness'), 'lvl': Short(5)})
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: 'id'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: String('minecraft:sharpness')
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: 'lvl'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: Short(5)
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: 'RepairCost'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: Int(3)
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: {'槽位': 5, '物品ID': 'minecraft:diamond_sword', '数量': 1, 'NBT': Compound({'Damage': Int(0)})}
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: '槽位'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: 5
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: '物品ID'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: 'minecraft:diamond_sword'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: '数量'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: 1
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: 'NBT'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: Compound({'Damage': Int(0)})
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: 'Damage'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: Int(0)
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: {'槽位': 6, '物品ID': 'minecraft:enchanted_book', '数量': 1, 'NBT': Compound({'StoredEnchantments': List[Compound]([Compound({'id': String('minecraft:sharpness'), 'lvl': Short(5)})])})}
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: '槽位'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: 6
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: '物品ID'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: 'minecraft:enchanted_book'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: '数量'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: 1
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: 'NBT'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: Compound({'StoredEnchantments': List[Compound]([Compound({'id': String('minecraft:sharpness'), 'lvl': Short(5)})])})
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: 'StoredEnchantments'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: List[Compound]([Compound({'id': String('minecraft:sharpness'), 'lvl': Short(5)})])
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: Compound({'id': String('minecraft:sharpness'), 'lvl': Short(5)})
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: 'id'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: String('minecraft:sharpness')
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: 'lvl'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: Short(5)
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: {'槽位': 7, '物品ID': 'minecraft:enchanted_book', '数量': 1, 'NBT': Compound({'StoredEnchantments': List[Compound]([Compound({'id': String('minecraft:sweeping'), 'lvl': Short(3)})])})}
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: '槽位'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: 7
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: '物品ID'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: 'minecraft:enchanted_book'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: '数量'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: 1
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: 'NBT'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: Compound({'StoredEnchantments': List[Compound]([Compound({'id': String('minecraft:sweeping'), 'lvl': Short(3)})])})
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: 'StoredEnchantments'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: List[Compound]([Compound({'id': String('minecraft:sweeping'), 'lvl': Short(3)})])
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: Compound({'id': String('minecraft:sweeping'), 'lvl': Short(3)})
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: 'id'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: String('minecraft:sweeping')
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: 'lvl'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: Short(3)
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: {'槽位': 8, '物品ID': 'minecraft:damaged_anvil', '数量': 1, 'NBT': None}
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: '槽位'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: 8
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: '物品ID'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: 'minecraft:damaged_anvil'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: '数量'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: 1
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: 'NBT'
+[2025-07-03 16:48:17] DEBUG: 转换 NBT 数据: None
+[2025-07-03 16:48:17] DEBUG: 转换世界时间: 12867
+[2025-07-03 16:48:17] INFO: 世界时间转换结果: 0 天 12 小时 52 分钟
+[2025-07-03 16:48:17] DEBUG: 转换现实时间: 1751445095091
+[2025-07-03 16:48:17] INFO: 现实时间转换结果: 2025-07-02 08:31:35 UTC
+[2025-07-03 16:48:17] DEBUG: 开始处理 NBT 数据: None
+[2025-07-03 16:48:17] DEBUG: 开始处理 NBT 数据: None
+[2025-07-03 16:48:17] DEBUG: 开始处理 NBT 数据: None
+[2025-07-03 16:48:17] DEBUG: 开始处理 NBT 数据: None
+[2025-07-03 16:48:17] DEBUG: 开始处理 NBT 数据: {'Damage': Int(0), 'Enchantments': [{'id': String('minecraft:sweeping'), 'lvl': Short(3)}, {'id': String('minecraft:sharpness'), 'lvl': Short(5)}], 'RepairCost': Int(3)}
+[2025-07-03 16:48:17] DEBUG: 开始转换罗马数字: 3
+[2025-07-03 16:48:17] INFO: 罗马数字转换结果: III
+[2025-07-03 16:48:17] DEBUG: 开始转换罗马数字: 5
+[2025-07-03 16:48:17] INFO: 罗马数字转换结果: V
+[2025-07-03 16:48:17] DEBUG: 开始处理 NBT 数据: {'Damage': Int(0)}
+[2025-07-03 16:48:17] DEBUG: 开始处理 NBT 数据: {'StoredEnchantments': [{'id': String('minecraft:sharpness'), 'lvl': Short(5)}]}
+[2025-07-03 16:48:17] DEBUG: 开始处理 NBT 数据: {'StoredEnchantments': [{'id': String('minecraft:sweeping'), 'lvl': Short(3)}]}
+[2025-07-03 16:48:17] DEBUG: 开始处理 NBT 数据: None
+[2025-07-03 16:48:23] INFO: 成功获取世界信息、玩家坐标、背包数据
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: {'世界名称': 'Lianji', '游戏模式': '创造模式', '出生点': {'x': 0, 'y': -60, 'z': 0}, '世界时间': 12867, '最后保存时间': 1751445095091, '世界难度': '和平'}
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: '世界名称'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: 'Lianji'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: '游戏模式'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: '创造模式'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: '出生点'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: {'x': 0, 'y': -60, 'z': 0}
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: 'x'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: 0
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: 'y'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: -60
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: 'z'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: 0
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: '世界时间'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: 12867
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: '最后保存时间'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: 1751445095091
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: '世界难度'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: '和平'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: {'x': -22.63179535642925, 'y': -60.0, 'z': 2.6328721763980214}
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: 'x'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: -22.63179535642925
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: 'y'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: -60.0
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: 'z'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: 2.6328721763980214
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: '主世界'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: [{'槽位': 0, '物品ID': 'minecraft:command_block', '数量': 1, 'NBT': None}, {'槽位': 1, '物品ID': 'minecraft:dirt', '数量': 49, 'NBT': None}, {'槽位': 2, '物品ID': 'minecraft:netherite_ingot', '数量': 64, 'NBT': None}, {'槽位': 3, '物品ID': 'minecraft:anvil', '数量': 1, 'NBT': None}, {'槽位': 4, '物品ID': 'minecraft:diamond_sword', '数量': 1, 'NBT': Compound({'Damage': Int(0), 'Enchantments': List[Compound]([Compound({'id': String('minecraft:sweeping'), 'lvl': Short(3)}), Compound({'id': String('minecraft:sharpness'), 'lvl': Short(5)})]), 'RepairCost': Int(3)})}, {'槽位': 5, '物品ID': 'minecraft:diamond_sword', '数量': 1, 'NBT': Compound({'Damage': Int(0)})}, {'槽位': 6, '物品ID': 'minecraft:enchanted_book', '数量': 1, 'NBT': Compound({'StoredEnchantments': List[Compound]([Compound({'id': String('minecraft:sharpness'), 'lvl': Short(5)})])})}, {'槽位': 7, '物品ID': 'minecraft:enchanted_book', '数量': 1, 'NBT': Compound({'StoredEnchantments': List[Compound]([Compound({'id': String('minecraft:sweeping'), 'lvl': Short(3)})])})}, {'槽位': 8, '物品ID': 'minecraft:damaged_anvil', '数量': 1, 'NBT': None}]
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: {'槽位': 0, '物品ID': 'minecraft:command_block', '数量': 1, 'NBT': None}
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: '槽位'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: 0
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: '物品ID'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: 'minecraft:command_block'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: '数量'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: 1
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: 'NBT'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: None
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: {'槽位': 1, '物品ID': 'minecraft:dirt', '数量': 49, 'NBT': None}
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: '槽位'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: 1
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: '物品ID'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: 'minecraft:dirt'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: '数量'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: 49
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: 'NBT'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: None
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: {'槽位': 2, '物品ID': 'minecraft:netherite_ingot', '数量': 64, 'NBT': None}
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: '槽位'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: 2
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: '物品ID'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: 'minecraft:netherite_ingot'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: '数量'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: 64
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: 'NBT'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: None
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: {'槽位': 3, '物品ID': 'minecraft:anvil', '数量': 1, 'NBT': None}
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: '槽位'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: 3
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: '物品ID'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: 'minecraft:anvil'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: '数量'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: 1
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: 'NBT'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: None
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: {'槽位': 4, '物品ID': 'minecraft:diamond_sword', '数量': 1, 'NBT': Compound({'Damage': Int(0), 'Enchantments': List[Compound]([Compound({'id': String('minecraft:sweeping'), 'lvl': Short(3)}), Compound({'id': String('minecraft:sharpness'), 'lvl': Short(5)})]), 'RepairCost': Int(3)})}
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: '槽位'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: 4
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: '物品ID'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: 'minecraft:diamond_sword'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: '数量'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: 1
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: 'NBT'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: Compound({'Damage': Int(0), 'Enchantments': List[Compound]([Compound({'id': String('minecraft:sweeping'), 'lvl': Short(3)}), Compound({'id': String('minecraft:sharpness'), 'lvl': Short(5)})]), 'RepairCost': Int(3)})
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: 'Damage'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: Int(0)
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: 'Enchantments'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: List[Compound]([Compound({'id': String('minecraft:sweeping'), 'lvl': Short(3)}), Compound({'id': String('minecraft:sharpness'), 'lvl': Short(5)})])
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: Compound({'id': String('minecraft:sweeping'), 'lvl': Short(3)})
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: 'id'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: String('minecraft:sweeping')
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: 'lvl'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: Short(3)
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: Compound({'id': String('minecraft:sharpness'), 'lvl': Short(5)})
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: 'id'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: String('minecraft:sharpness')
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: 'lvl'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: Short(5)
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: 'RepairCost'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: Int(3)
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: {'槽位': 5, '物品ID': 'minecraft:diamond_sword', '数量': 1, 'NBT': Compound({'Damage': Int(0)})}
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: '槽位'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: 5
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: '物品ID'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: 'minecraft:diamond_sword'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: '数量'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: 1
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: 'NBT'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: Compound({'Damage': Int(0)})
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: 'Damage'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: Int(0)
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: {'槽位': 6, '物品ID': 'minecraft:enchanted_book', '数量': 1, 'NBT': Compound({'StoredEnchantments': List[Compound]([Compound({'id': String('minecraft:sharpness'), 'lvl': Short(5)})])})}
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: '槽位'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: 6
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: '物品ID'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: 'minecraft:enchanted_book'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: '数量'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: 1
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: 'NBT'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: Compound({'StoredEnchantments': List[Compound]([Compound({'id': String('minecraft:sharpness'), 'lvl': Short(5)})])})
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: 'StoredEnchantments'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: List[Compound]([Compound({'id': String('minecraft:sharpness'), 'lvl': Short(5)})])
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: Compound({'id': String('minecraft:sharpness'), 'lvl': Short(5)})
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: 'id'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: String('minecraft:sharpness')
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: 'lvl'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: Short(5)
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: {'槽位': 7, '物品ID': 'minecraft:enchanted_book', '数量': 1, 'NBT': Compound({'StoredEnchantments': List[Compound]([Compound({'id': String('minecraft:sweeping'), 'lvl': Short(3)})])})}
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: '槽位'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: 7
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: '物品ID'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: 'minecraft:enchanted_book'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: '数量'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: 1
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: 'NBT'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: Compound({'StoredEnchantments': List[Compound]([Compound({'id': String('minecraft:sweeping'), 'lvl': Short(3)})])})
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: 'StoredEnchantments'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: List[Compound]([Compound({'id': String('minecraft:sweeping'), 'lvl': Short(3)})])
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: Compound({'id': String('minecraft:sweeping'), 'lvl': Short(3)})
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: 'id'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: String('minecraft:sweeping')
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: 'lvl'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: Short(3)
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: {'槽位': 8, '物品ID': 'minecraft:damaged_anvil', '数量': 1, 'NBT': None}
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: '槽位'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: 8
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: '物品ID'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: 'minecraft:damaged_anvil'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: '数量'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: 1
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: 'NBT'
+[2025-07-03 16:48:23] DEBUG: 转换 NBT 数据: None
+[2025-07-03 16:48:23] DEBUG: 转换世界时间: 12867
+[2025-07-03 16:48:23] INFO: 世界时间转换结果: 0 天 12 小时 52 分钟
+[2025-07-03 16:48:23] DEBUG: 转换现实时间: 1751445095091
+[2025-07-03 16:48:23] INFO: 现实时间转换结果: 2025-07-02 08:31:35 UTC
+[2025-07-03 16:48:23] DEBUG: 开始处理 NBT 数据: None
+[2025-07-03 16:48:23] DEBUG: 开始处理 NBT 数据: None
+[2025-07-03 16:48:23] DEBUG: 开始处理 NBT 数据: None
+[2025-07-03 16:48:23] DEBUG: 开始处理 NBT 数据: None
+[2025-07-03 16:48:23] DEBUG: 开始处理 NBT 数据: {'Damage': Int(0), 'Enchantments': [{'id': String('minecraft:sweeping'), 'lvl': Short(3)}, {'id': String('minecraft:sharpness'), 'lvl': Short(5)}], 'RepairCost': Int(3)}
+[2025-07-03 16:48:23] DEBUG: 开始转换罗马数字: 3
+[2025-07-03 16:48:23] INFO: 罗马数字转换结果: III
+[2025-07-03 16:48:23] DEBUG: 开始转换罗马数字: 5
+[2025-07-03 16:48:23] INFO: 罗马数字转换结果: V
+[2025-07-03 16:48:23] DEBUG: 开始处理 NBT 数据: {'Damage': Int(0)}
+[2025-07-03 16:48:23] DEBUG: 开始处理 NBT 数据: {'StoredEnchantments': [{'id': String('minecraft:sharpness'), 'lvl': Short(5)}]}
+[2025-07-03 16:48:23] DEBUG: 开始处理 NBT 数据: {'StoredEnchantments': [{'id': String('minecraft:sweeping'), 'lvl': Short(3)}]}
+[2025-07-03 16:48:23] DEBUG: 开始处理 NBT 数据: None
+[2025-07-03 16:48:32] INFO: 主题配置已从 JSON 加载
+[2025-07-03 16:48:32] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 16:48:33] INFO: 应用启动成功
+[2025-07-03 16:48:36] INFO: 成功获取世界信息、玩家坐标、背包数据
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: {'世界名称': 'Lianji', '游戏模式': '创造模式', '出生点': {'x': 0, 'y': -60, 'z': 0}, '世界时间': 12867, '最后保存时间': 1751445095091, '世界难度': '和平'}
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: '世界名称'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: 'Lianji'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: '游戏模式'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: '创造模式'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: '出生点'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: {'x': 0, 'y': -60, 'z': 0}
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: 'x'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: 0
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: 'y'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: -60
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: 'z'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: 0
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: '世界时间'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: 12867
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: '最后保存时间'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: 1751445095091
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: '世界难度'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: '和平'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: {'x': -22.63179535642925, 'y': -60.0, 'z': 2.6328721763980214}
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: 'x'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: -22.63179535642925
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: 'y'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: -60.0
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: 'z'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: 2.6328721763980214
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: '主世界'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: [{'槽位': 0, '物品ID': 'minecraft:command_block', '数量': 1, 'NBT': None}, {'槽位': 1, '物品ID': 'minecraft:dirt', '数量': 49, 'NBT': None}, {'槽位': 2, '物品ID': 'minecraft:netherite_ingot', '数量': 64, 'NBT': None}, {'槽位': 3, '物品ID': 'minecraft:anvil', '数量': 1, 'NBT': None}, {'槽位': 4, '物品ID': 'minecraft:diamond_sword', '数量': 1, 'NBT': Compound({'Damage': Int(0), 'Enchantments': List[Compound]([Compound({'id': String('minecraft:sweeping'), 'lvl': Short(3)}), Compound({'id': String('minecraft:sharpness'), 'lvl': Short(5)})]), 'RepairCost': Int(3)})}, {'槽位': 5, '物品ID': 'minecraft:diamond_sword', '数量': 1, 'NBT': Compound({'Damage': Int(0)})}, {'槽位': 6, '物品ID': 'minecraft:enchanted_book', '数量': 1, 'NBT': Compound({'StoredEnchantments': List[Compound]([Compound({'id': String('minecraft:sharpness'), 'lvl': Short(5)})])})}, {'槽位': 7, '物品ID': 'minecraft:enchanted_book', '数量': 1, 'NBT': Compound({'StoredEnchantments': List[Compound]([Compound({'id': String('minecraft:sweeping'), 'lvl': Short(3)})])})}, {'槽位': 8, '物品ID': 'minecraft:damaged_anvil', '数量': 1, 'NBT': None}]
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: {'槽位': 0, '物品ID': 'minecraft:command_block', '数量': 1, 'NBT': None}
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: '槽位'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: 0
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: '物品ID'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: 'minecraft:command_block'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: '数量'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: 1
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: 'NBT'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: None
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: {'槽位': 1, '物品ID': 'minecraft:dirt', '数量': 49, 'NBT': None}
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: '槽位'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: 1
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: '物品ID'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: 'minecraft:dirt'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: '数量'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: 49
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: 'NBT'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: None
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: {'槽位': 2, '物品ID': 'minecraft:netherite_ingot', '数量': 64, 'NBT': None}
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: '槽位'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: 2
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: '物品ID'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: 'minecraft:netherite_ingot'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: '数量'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: 64
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: 'NBT'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: None
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: {'槽位': 3, '物品ID': 'minecraft:anvil', '数量': 1, 'NBT': None}
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: '槽位'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: 3
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: '物品ID'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: 'minecraft:anvil'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: '数量'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: 1
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: 'NBT'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: None
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: {'槽位': 4, '物品ID': 'minecraft:diamond_sword', '数量': 1, 'NBT': Compound({'Damage': Int(0), 'Enchantments': List[Compound]([Compound({'id': String('minecraft:sweeping'), 'lvl': Short(3)}), Compound({'id': String('minecraft:sharpness'), 'lvl': Short(5)})]), 'RepairCost': Int(3)})}
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: '槽位'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: 4
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: '物品ID'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: 'minecraft:diamond_sword'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: '数量'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: 1
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: 'NBT'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: Compound({'Damage': Int(0), 'Enchantments': List[Compound]([Compound({'id': String('minecraft:sweeping'), 'lvl': Short(3)}), Compound({'id': String('minecraft:sharpness'), 'lvl': Short(5)})]), 'RepairCost': Int(3)})
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: 'Damage'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: Int(0)
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: 'Enchantments'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: List[Compound]([Compound({'id': String('minecraft:sweeping'), 'lvl': Short(3)}), Compound({'id': String('minecraft:sharpness'), 'lvl': Short(5)})])
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: Compound({'id': String('minecraft:sweeping'), 'lvl': Short(3)})
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: 'id'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: String('minecraft:sweeping')
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: 'lvl'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: Short(3)
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: Compound({'id': String('minecraft:sharpness'), 'lvl': Short(5)})
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: 'id'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: String('minecraft:sharpness')
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: 'lvl'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: Short(5)
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: 'RepairCost'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: Int(3)
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: {'槽位': 5, '物品ID': 'minecraft:diamond_sword', '数量': 1, 'NBT': Compound({'Damage': Int(0)})}
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: '槽位'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: 5
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: '物品ID'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: 'minecraft:diamond_sword'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: '数量'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: 1
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: 'NBT'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: Compound({'Damage': Int(0)})
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: 'Damage'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: Int(0)
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: {'槽位': 6, '物品ID': 'minecraft:enchanted_book', '数量': 1, 'NBT': Compound({'StoredEnchantments': List[Compound]([Compound({'id': String('minecraft:sharpness'), 'lvl': Short(5)})])})}
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: '槽位'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: 6
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: '物品ID'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: 'minecraft:enchanted_book'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: '数量'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: 1
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: 'NBT'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: Compound({'StoredEnchantments': List[Compound]([Compound({'id': String('minecraft:sharpness'), 'lvl': Short(5)})])})
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: 'StoredEnchantments'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: List[Compound]([Compound({'id': String('minecraft:sharpness'), 'lvl': Short(5)})])
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: Compound({'id': String('minecraft:sharpness'), 'lvl': Short(5)})
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: 'id'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: String('minecraft:sharpness')
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: 'lvl'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: Short(5)
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: {'槽位': 7, '物品ID': 'minecraft:enchanted_book', '数量': 1, 'NBT': Compound({'StoredEnchantments': List[Compound]([Compound({'id': String('minecraft:sweeping'), 'lvl': Short(3)})])})}
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: '槽位'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: 7
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: '物品ID'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: 'minecraft:enchanted_book'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: '数量'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: 1
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: 'NBT'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: Compound({'StoredEnchantments': List[Compound]([Compound({'id': String('minecraft:sweeping'), 'lvl': Short(3)})])})
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: 'StoredEnchantments'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: List[Compound]([Compound({'id': String('minecraft:sweeping'), 'lvl': Short(3)})])
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: Compound({'id': String('minecraft:sweeping'), 'lvl': Short(3)})
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: 'id'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: String('minecraft:sweeping')
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: 'lvl'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: Short(3)
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: {'槽位': 8, '物品ID': 'minecraft:damaged_anvil', '数量': 1, 'NBT': None}
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: '槽位'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: 8
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: '物品ID'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: 'minecraft:damaged_anvil'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: '数量'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: 1
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: 'NBT'
+[2025-07-03 16:48:36] DEBUG: 转换 NBT 数据: None
+[2025-07-03 16:48:36] DEBUG: 转换世界时间: 12867
+[2025-07-03 16:48:36] INFO: 世界时间转换结果: 0 天 12 小时 52 分钟
+[2025-07-03 16:48:36] DEBUG: 转换现实时间: 1751445095091
+[2025-07-03 16:48:36] INFO: 现实时间转换结果: 2025-07-02 08:31:35 UTC
+[2025-07-03 16:48:36] DEBUG: 开始处理 NBT 数据: None
+[2025-07-03 16:48:36] DEBUG: 开始处理 NBT 数据: None
+[2025-07-03 16:48:36] DEBUG: 开始处理 NBT 数据: None
+[2025-07-03 16:48:36] DEBUG: 开始处理 NBT 数据: None
+[2025-07-03 16:48:36] DEBUG: 开始处理 NBT 数据: {'Damage': Int(0), 'Enchantments': [{'id': String('minecraft:sweeping'), 'lvl': Short(3)}, {'id': String('minecraft:sharpness'), 'lvl': Short(5)}], 'RepairCost': Int(3)}
+[2025-07-03 16:48:36] DEBUG: 开始转换罗马数字: 3
+[2025-07-03 16:48:36] INFO: 罗马数字转换结果: III
+[2025-07-03 16:48:36] DEBUG: 开始转换罗马数字: 5
+[2025-07-03 16:48:36] INFO: 罗马数字转换结果: V
+[2025-07-03 16:48:36] DEBUG: 开始处理 NBT 数据: {'Damage': Int(0)}
+[2025-07-03 16:48:36] DEBUG: 开始处理 NBT 数据: {'StoredEnchantments': [{'id': String('minecraft:sharpness'), 'lvl': Short(5)}]}
+[2025-07-03 16:48:36] DEBUG: 开始处理 NBT 数据: {'StoredEnchantments': [{'id': String('minecraft:sweeping'), 'lvl': Short(3)}]}
+[2025-07-03 16:48:36] DEBUG: 开始处理 NBT 数据: None
+[2025-07-03 16:49:22] INFO: 主题配置已从 JSON 加载
+[2025-07-03 16:49:24] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 16:49:25] INFO: 应用启动成功
+[2025-07-03 16:49:28] INFO: 成功获取世界信息、玩家坐标、背包数据
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: {'世界名称': 'Lianji', '游戏模式': '创造模式', '出生点': {'x': 0, 'y': -60, 'z': 0}, '世界时间': 12867, '最后保存时间': 1751445095091, '世界难度': '和平'}
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: '世界名称'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: 'Lianji'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: '游戏模式'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: '创造模式'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: '出生点'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: {'x': 0, 'y': -60, 'z': 0}
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: 'x'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: 0
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: 'y'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: -60
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: 'z'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: 0
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: '世界时间'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: 12867
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: '最后保存时间'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: 1751445095091
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: '世界难度'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: '和平'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: {'x': -22.63179535642925, 'y': -60.0, 'z': 2.6328721763980214}
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: 'x'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: -22.63179535642925
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: 'y'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: -60.0
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: 'z'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: 2.6328721763980214
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: '主世界'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: [{'槽位': 0, '物品ID': 'minecraft:command_block', '数量': 1, 'NBT': None}, {'槽位': 1, '物品ID': 'minecraft:dirt', '数量': 49, 'NBT': None}, {'槽位': 2, '物品ID': 'minecraft:netherite_ingot', '数量': 64, 'NBT': None}, {'槽位': 3, '物品ID': 'minecraft:anvil', '数量': 1, 'NBT': None}, {'槽位': 4, '物品ID': 'minecraft:diamond_sword', '数量': 1, 'NBT': Compound({'Damage': Int(0), 'Enchantments': List[Compound]([Compound({'id': String('minecraft:sweeping'), 'lvl': Short(3)}), Compound({'id': String('minecraft:sharpness'), 'lvl': Short(5)})]), 'RepairCost': Int(3)})}, {'槽位': 5, '物品ID': 'minecraft:diamond_sword', '数量': 1, 'NBT': Compound({'Damage': Int(0)})}, {'槽位': 6, '物品ID': 'minecraft:enchanted_book', '数量': 1, 'NBT': Compound({'StoredEnchantments': List[Compound]([Compound({'id': String('minecraft:sharpness'), 'lvl': Short(5)})])})}, {'槽位': 7, '物品ID': 'minecraft:enchanted_book', '数量': 1, 'NBT': Compound({'StoredEnchantments': List[Compound]([Compound({'id': String('minecraft:sweeping'), 'lvl': Short(3)})])})}, {'槽位': 8, '物品ID': 'minecraft:damaged_anvil', '数量': 1, 'NBT': None}]
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: {'槽位': 0, '物品ID': 'minecraft:command_block', '数量': 1, 'NBT': None}
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: '槽位'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: 0
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: '物品ID'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: 'minecraft:command_block'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: '数量'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: 1
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: 'NBT'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: None
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: {'槽位': 1, '物品ID': 'minecraft:dirt', '数量': 49, 'NBT': None}
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: '槽位'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: 1
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: '物品ID'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: 'minecraft:dirt'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: '数量'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: 49
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: 'NBT'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: None
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: {'槽位': 2, '物品ID': 'minecraft:netherite_ingot', '数量': 64, 'NBT': None}
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: '槽位'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: 2
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: '物品ID'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: 'minecraft:netherite_ingot'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: '数量'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: 64
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: 'NBT'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: None
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: {'槽位': 3, '物品ID': 'minecraft:anvil', '数量': 1, 'NBT': None}
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: '槽位'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: 3
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: '物品ID'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: 'minecraft:anvil'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: '数量'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: 1
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: 'NBT'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: None
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: {'槽位': 4, '物品ID': 'minecraft:diamond_sword', '数量': 1, 'NBT': Compound({'Damage': Int(0), 'Enchantments': List[Compound]([Compound({'id': String('minecraft:sweeping'), 'lvl': Short(3)}), Compound({'id': String('minecraft:sharpness'), 'lvl': Short(5)})]), 'RepairCost': Int(3)})}
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: '槽位'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: 4
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: '物品ID'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: 'minecraft:diamond_sword'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: '数量'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: 1
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: 'NBT'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: Compound({'Damage': Int(0), 'Enchantments': List[Compound]([Compound({'id': String('minecraft:sweeping'), 'lvl': Short(3)}), Compound({'id': String('minecraft:sharpness'), 'lvl': Short(5)})]), 'RepairCost': Int(3)})
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: 'Damage'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: Int(0)
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: 'Enchantments'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: List[Compound]([Compound({'id': String('minecraft:sweeping'), 'lvl': Short(3)}), Compound({'id': String('minecraft:sharpness'), 'lvl': Short(5)})])
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: Compound({'id': String('minecraft:sweeping'), 'lvl': Short(3)})
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: 'id'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: String('minecraft:sweeping')
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: 'lvl'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: Short(3)
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: Compound({'id': String('minecraft:sharpness'), 'lvl': Short(5)})
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: 'id'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: String('minecraft:sharpness')
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: 'lvl'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: Short(5)
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: 'RepairCost'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: Int(3)
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: {'槽位': 5, '物品ID': 'minecraft:diamond_sword', '数量': 1, 'NBT': Compound({'Damage': Int(0)})}
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: '槽位'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: 5
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: '物品ID'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: 'minecraft:diamond_sword'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: '数量'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: 1
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: 'NBT'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: Compound({'Damage': Int(0)})
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: 'Damage'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: Int(0)
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: {'槽位': 6, '物品ID': 'minecraft:enchanted_book', '数量': 1, 'NBT': Compound({'StoredEnchantments': List[Compound]([Compound({'id': String('minecraft:sharpness'), 'lvl': Short(5)})])})}
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: '槽位'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: 6
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: '物品ID'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: 'minecraft:enchanted_book'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: '数量'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: 1
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: 'NBT'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: Compound({'StoredEnchantments': List[Compound]([Compound({'id': String('minecraft:sharpness'), 'lvl': Short(5)})])})
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: 'StoredEnchantments'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: List[Compound]([Compound({'id': String('minecraft:sharpness'), 'lvl': Short(5)})])
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: Compound({'id': String('minecraft:sharpness'), 'lvl': Short(5)})
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: 'id'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: String('minecraft:sharpness')
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: 'lvl'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: Short(5)
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: {'槽位': 7, '物品ID': 'minecraft:enchanted_book', '数量': 1, 'NBT': Compound({'StoredEnchantments': List[Compound]([Compound({'id': String('minecraft:sweeping'), 'lvl': Short(3)})])})}
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: '槽位'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: 7
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: '物品ID'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: 'minecraft:enchanted_book'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: '数量'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: 1
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: 'NBT'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: Compound({'StoredEnchantments': List[Compound]([Compound({'id': String('minecraft:sweeping'), 'lvl': Short(3)})])})
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: 'StoredEnchantments'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: List[Compound]([Compound({'id': String('minecraft:sweeping'), 'lvl': Short(3)})])
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: Compound({'id': String('minecraft:sweeping'), 'lvl': Short(3)})
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: 'id'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: String('minecraft:sweeping')
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: 'lvl'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: Short(3)
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: {'槽位': 8, '物品ID': 'minecraft:damaged_anvil', '数量': 1, 'NBT': None}
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: '槽位'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: 8
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: '物品ID'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: 'minecraft:damaged_anvil'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: '数量'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: 1
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: 'NBT'
+[2025-07-03 16:49:28] DEBUG: 转换 NBT 数据: None
+[2025-07-03 16:49:28] DEBUG: 转换世界时间: 12867
+[2025-07-03 16:49:28] INFO: 世界时间转换结果: 0 天 12 小时 52 分钟
+[2025-07-03 16:49:28] DEBUG: 转换现实时间: 1751445095091
+[2025-07-03 16:49:28] INFO: 现实时间转换结果: 2025-07-02 08:31:35 UTC
+[2025-07-03 16:49:28] DEBUG: 开始处理 NBT 数据: None
+[2025-07-03 16:49:28] DEBUG: 开始处理 NBT 数据: None
+[2025-07-03 16:49:28] DEBUG: 开始处理 NBT 数据: None
+[2025-07-03 16:49:28] DEBUG: 开始处理 NBT 数据: None
+[2025-07-03 16:49:28] DEBUG: 开始处理 NBT 数据: {'Damage': Int(0), 'Enchantments': [{'id': String('minecraft:sweeping'), 'lvl': Short(3)}, {'id': String('minecraft:sharpness'), 'lvl': Short(5)}], 'RepairCost': Int(3)}
+[2025-07-03 16:49:28] DEBUG: 开始转换罗马数字: 3
+[2025-07-03 16:49:28] INFO: 罗马数字转换结果: III
+[2025-07-03 16:49:28] DEBUG: 开始转换罗马数字: 5
+[2025-07-03 16:49:28] INFO: 罗马数字转换结果: V
+[2025-07-03 16:49:28] DEBUG: 开始处理 NBT 数据: {'Damage': Int(0)}
+[2025-07-03 16:49:28] DEBUG: 开始处理 NBT 数据: {'StoredEnchantments': [{'id': String('minecraft:sharpness'), 'lvl': Short(5)}]}
+[2025-07-03 16:49:28] DEBUG: 开始处理 NBT 数据: {'StoredEnchantments': [{'id': String('minecraft:sweeping'), 'lvl': Short(3)}]}
+[2025-07-03 16:49:28] DEBUG: 开始处理 NBT 数据: None
+[2025-07-03 16:49:40] INFO: 主题配置已从 JSON 加载
+[2025-07-03 16:49:40] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 16:49:41] INFO: 应用启动成功
+[2025-07-03 16:50:02] INFO: 主题配置已从 JSON 加载
+[2025-07-03 16:50:02] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 16:50:03] INFO: 应用启动成功
+[2025-07-03 16:50:56] INFO: 主题配置已从 JSON 加载
+[2025-07-03 16:50:57] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 16:50:58] INFO: 应用启动成功
+[2025-07-03 16:51:32] INFO: 主题配置已从 JSON 加载
+[2025-07-03 16:51:32] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 16:51:33] INFO: 应用启动成功
+[2025-07-03 16:52:04] INFO: 主题配置已从 JSON 加载
+[2025-07-03 16:52:05] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 16:52:05] INFO: 应用启动成功
+[2025-07-03 16:52:17] INFO: 主题配置已从 JSON 加载
+[2025-07-03 16:52:17] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 16:52:18] INFO: 应用启动成功
+[2025-07-03 16:52:25] INFO: 主题配置已从 JSON 加载
+[2025-07-03 16:52:27] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 16:52:28] INFO: 应用启动成功
+[2025-07-03 16:52:35] INFO: 主题配置已从 JSON 加载
+[2025-07-03 16:52:36] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 16:52:37] INFO: 应用启动成功
+[2025-07-03 16:52:40] WARNING: 未输入存档路径
+[2025-07-03 16:52:58] INFO: 主题配置已从 JSON 加载
+[2025-07-03 16:53:00] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 16:53:00] INFO: 应用启动成功
+[2025-07-03 16:53:09] INFO: 主题配置已从 JSON 加载
+[2025-07-03 16:53:10] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 16:53:11] INFO: 应用启动成功
+[2025-07-03 16:53:17] INFO: 主题配置已从 JSON 加载
+[2025-07-03 16:53:19] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 16:53:19] INFO: 应用启动成功
+[2025-07-03 16:53:34] INFO: 主题配置已从 JSON 加载
+[2025-07-03 16:53:35] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 16:53:35] INFO: 应用启动成功
+[2025-07-03 16:53:41] INFO: 主题配置已从 JSON 加载
+[2025-07-03 16:53:42] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 16:53:42] INFO: 应用启动成功
+[2025-07-03 16:54:14] INFO: 主题配置已从 JSON 加载
+[2025-07-03 16:54:15] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 16:54:16] INFO: 应用启动成功
+[2025-07-03 16:55:01] INFO: 主题配置已从 JSON 加载
+[2025-07-03 16:55:01] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 16:55:02] INFO: 应用启动成功
+[2025-07-03 16:55:22] INFO: 主题配置已从 JSON 加载
+[2025-07-03 16:55:22] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 16:55:23] INFO: 应用启动成功
+[2025-07-03 16:56:49] INFO: 主题配置已从 JSON 加载
+[2025-07-03 16:56:49] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 16:56:50] INFO: 应用启动成功
+[2025-07-03 16:56:54] INFO: 主题配置已从 JSON 加载
+[2025-07-03 16:56:54] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 16:56:55] INFO: 应用启动成功
+[2025-07-03 16:57:44] INFO: 主题配置已从 JSON 加载
+[2025-07-03 16:57:44] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 16:57:45] INFO: 应用启动成功
+[2025-07-03 16:57:54] INFO: 主题配置已从 JSON 加载
+[2025-07-03 16:57:55] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 16:57:56] INFO: 应用启动成功
+[2025-07-03 16:59:01] INFO: 主题配置已从 JSON 加载
+[2025-07-03 16:59:01] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 16:59:02] INFO: 应用启动成功
+[2025-07-03 16:59:08] INFO: 主题配置已从 JSON 加载
+[2025-07-03 16:59:08] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 16:59:09] INFO: 应用启动成功
+[2025-07-03 17:03:15] INFO: 主题配置已从 JSON 加载
+[2025-07-03 17:03:16] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 17:03:16] INFO: 应用启动成功
+[2025-07-03 17:03:23] INFO: 主题配置已从 JSON 加载
+[2025-07-03 17:03:24] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 17:03:25] INFO: 应用启动成功
+[2025-07-03 17:04:26] INFO: 主题配置已从 JSON 加载
+[2025-07-03 17:04:35] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 17:05:14] INFO: 主题配置已从 JSON 加载
+[2025-07-03 17:05:31] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 17:07:20] INFO: 主题配置已从 JSON 加载
+[2025-07-03 17:07:44] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 17:13:02] INFO: 主题配置已从 JSON 加载
+[2025-07-03 17:13:02] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 17:14:06] WARNING: 找不到主题文件或加载失败，使用默认主题
+[2025-07-03 17:14:06] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 17:14:07] INFO: 应用启动成功
+[2025-07-03 17:14:31] WARNING: 找不到主题文件或加载失败，使用默认主题
+[2025-07-03 17:14:32] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 17:14:33] INFO: 应用启动成功
+[2025-07-03 17:15:48] WARNING: 找不到主题文件或加载失败，使用默认主题
+[2025-07-03 17:15:48] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 17:15:49] INFO: 应用启动成功
+[2025-07-03 17:17:11] WARNING: 找不到主题文件或加载失败，使用默认主题
+[2025-07-03 17:17:11] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 17:17:12] INFO: 应用启动成功
+[2025-07-03 17:20:31] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 17:20:50] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 17:20:50] INFO: 应用启动成功
+[2025-07-03 17:23:25] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 17:23:39] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 17:23:40] INFO: 应用启动成功
+[2025-07-03 17:25:11] WARNING: 找不到主题文件，使用默认主题: [Errno 2] No such file or directory: 'data/theme.json'
+[2025-07-03 17:25:11] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 17:25:12] INFO: 应用启动成功
+[2025-07-03 17:25:24] INFO: 主题配置已从 JSON 加载
+[2025-07-03 17:25:24] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 17:25:25] INFO: 应用启动成功
+[2025-07-03 17:25:30] INFO: 主题配置已从 JSON 加载
+[2025-07-03 17:25:31] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 17:25:31] INFO: 应用启动成功
+[2025-07-03 17:26:04] INFO: 主题配置已从 JSON 加载 {'bg': '#f0f0f0', 'fg': 'black', 'entry_bg': 'white', 'entry_fg': 'black', 'text_bg': 'white', 'text_fg': 'black', 'button_bg': '#4CAF50', 'button_fg': 'white', 'label_bg': '#f0f0f0', 'label_fg': 'black'}
+[2025-07-03 17:26:05] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 17:26:06] INFO: 应用启动成功
+[2025-07-03 17:26:13] INFO: 主题配置已从 JSON 加载 {'bg': '#f0f0f0', 'fg': 'black', 'entry_bg': 'white', 'entry_fg': 'black', 'text_bg': 'white', 'text_fg': 'black', 'button_bg': '#4CAF50', 'button_fg': 'white', 'label_bg': '#f0f0f0', 'label_fg': 'black'}
+[2025-07-03 17:26:14] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 17:26:15] INFO: 应用启动成功
+[2025-07-03 17:28:14] INFO: 主题配置已从 JSON 加载 {'bg': '#f0f0f0', 'fg': 'black', 'entry_bg': 'white', 'entry_fg': 'black', 'text_bg': 'white', 'text_fg': 'black', 'button_bg': '#4CAF50', 'button_fg': 'white', 'label_bg': '#f0f0f0', 'label_fg': 'black'}
+[2025-07-03 17:28:14] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 17:28:15] INFO: 应用启动成功
+[2025-07-03 17:28:22] INFO: 主题配置已从 JSON 加载 {'bg': '#f0f0f0', 'fg': 'black', 'entry_bg': 'white', 'entry_fg': 'black', 'text_bg': 'white', 'text_fg': 'black', 'button_bg': '#4CAF50', 'button_fg': 'white', 'label_bg': '#f0f0f0', 'label_fg': 'black'}
+[2025-07-03 17:28:23] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 17:28:23] INFO: 应用启动成功
+[2025-07-03 17:28:30] INFO: 主题配置已从 JSON 加载 {'bg': '#f0f0f0', 'fg': 'black', 'entry_bg': 'white', 'entry_fg': 'black', 'text_bg': 'white', 'text_fg': 'black', 'button_bg': '#4CAF50', 'button_fg': 'white', 'label_bg': '#f0f0f0', 'label_fg': 'black'}
+[2025-07-03 17:28:31] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 17:28:31] INFO: 应用启动成功
+[2025-07-03 17:31:42] INFO: 主题配置已从 JSON 加载 {'bg': '#f0f0f0', 'fg': 'black', 'entry_bg': 'white', 'entry_fg': 'black', 'text_bg': 'white', 'text_fg': 'black', 'button_bg': '#4CAF50', 'button_fg': 'white', 'label_bg': '#f0f0f0', 'label_fg': 'black'}
+[2025-07-03 17:31:43] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 17:31:43] INFO: 应用启动成功
+[2025-07-03 17:32:31] INFO: 主题配置已从 JSON 加载 {'bg': '#f0f0f0', 'fg': 'black', 'entry_bg': 'white', 'entry_fg': 'black', 'text_bg': 'white', 'text_fg': 'black', 'button_bg': '#4CAF50', 'button_fg': 'white', 'label_bg': '#f0f0f0', 'label_fg': 'black'}
+[2025-07-03 17:32:32] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 17:32:33] INFO: 应用启动成功
+[2025-07-03 17:40:50] INFO: 主题配置已从 JSON 加载 {'bg': '#f0f0f0', 'fg': 'black', 'entry_bg': 'white', 'entry_fg': 'black', 'text_bg': 'white', 'text_fg': 'black', 'button_bg': '#4CAF50', 'button_fg': 'white', 'label_bg': '#f0f0f0', 'label_fg': 'black'}
+[2025-07-03 17:40:51] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 17:40:51] INFO: 应用启动成功
+[2025-07-03 17:40:55] INFO: 主题文件已复制到: C:\Users\Administrator\.minecraft_archive_viewer\data\theme\theme.json
+[2025-07-03 17:40:56] INFO: 主题配置已从 JSON 加载 {'bg': '#f0f0f0', 'fg': 'black', 'entry_bg': 'white', 'entry_fg': 'black', 'text_bg': 'white', 'text_fg': 'black', 'button_bg': '#4CAF50', 'button_fg': 'white', 'label_bg': '#f0f0f0', 'label_fg': 'black'}
+[2025-07-03 17:40:56] WARNING: 找不到主题文件，使用默认主题: [Errno 22] Invalid argument
+[2025-07-03 17:40:57] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 17:40:59] INFO: 应用启动成功
+[2025-07-03 17:41:44] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 17:41:45] INFO: 应用启动成功
+[2025-07-03 17:50:35] INFO: 主题配置已从 JSON 加载: {'bg': '#e6f0ff', 'fg': '#003366', 'entry_bg': '#ffffff', 'entry_fg': '#003366', 'text_bg': '#ffffff', 'text_fg': '#003366', 'button_bg': '#007acc', 'button_fg': '#ffffff', 'label_bg': '#cce0ff', 'label_fg': '#003366'}
+[2025-07-03 17:50:35] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 17:50:36] INFO: 应用启动成功
+[2025-07-03 17:51:44] INFO: 主题配置已从 JSON 加载: {'bg': '#e6f0ff', 'fg': '#003366', 'entry_bg': '#ffffff', 'entry_fg': '#003366', 'text_bg': '#ffffff', 'text_fg': '#003366', 'button_bg': '#007acc', 'button_fg': '#ffffff', 'label_bg': '#cce0ff', 'label_fg': '#003366'}
+[2025-07-03 17:51:44] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 17:51:45] INFO: 应用启动成功
+[2025-07-03 17:51:54] DEBUG: 开始导出为 JSON
+[2025-07-03 17:52:37] INFO: 主题配置已从 JSON 加载: {'bg': '#e6f0ff', 'fg': '#003366', 'entry_bg': '#ffffff', 'entry_fg': '#003366', 'text_bg': '#ffffff', 'text_fg': '#003366', 'button_bg': '#007acc', 'button_fg': '#ffffff', 'label_bg': '#cce0ff', 'label_fg': '#003366'}
+[2025-07-03 17:52:38] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 17:52:38] INFO: 应用启动成功
+[2025-07-03 17:53:12] INFO: 主题配置已从 JSON 加载: {'bg': '#e6f0ff', 'fg': '#003366', 'entry_bg': '#ffffff', 'entry_fg': '#003366', 'text_bg': '#ffffff', 'text_fg': '#003366', 'button_bg': '#007acc', 'button_fg': '#ffffff', 'label_bg': '#cce0ff', 'label_fg': '#003366'}
+[2025-07-03 17:53:13] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 17:53:14] INFO: 应用启动成功
+[2025-07-03 17:53:33] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 17:53:34] INFO: 应用启动成功
+[2025-07-03 17:53:59] INFO: 主题配置已从 JSON 加载: {'bg': '#e6f0ff', 'fg': '#003366', 'entry_bg': '#ffffff', 'entry_fg': '#003366', 'text_bg': '#ffffff', 'text_fg': '#003366', 'button_bg': '#007acc', 'button_fg': '#ffffff', 'label_bg': '#cce0ff', 'label_fg': '#003366'}
+[2025-07-03 17:53:59] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 17:54:00] INFO: 应用启动成功
+[2025-07-03 17:54:23] INFO: 主题配置已从 JSON 加载: {'bg': '#e6f0ff', 'fg': '#003366', 'entry_bg': '#ffffff', 'entry_fg': '#003366', 'text_bg': '#ffffff', 'text_fg': '#003366', 'button_bg': '#007acc', 'button_fg': '#ffffff', 'label_bg': '#cce0ff', 'label_fg': '#003366'}
+[2025-07-03 17:54:25] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 17:54:25] INFO: 应用启动成功
+[2025-07-03 17:55:00] INFO: 主题配置已从 JSON 加载: {'bg': '#e6f0ff', 'fg': '#003366', 'entry_bg': '#ffffff', 'entry_fg': '#003366', 'text_bg': '#ffffff', 'text_fg': '#003366', 'button_bg': '#007acc', 'button_fg': '#ffffff', 'label_bg': '#cce0ff', 'label_fg': '#003366'}
+[2025-07-03 17:55:00] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 17:55:01] INFO: 应用启动成功
+[2025-07-03 17:57:38] INFO: 主题配置已从 JSON 加载: {'bg': '#e6f0ff', 'fg': '#003366', 'entry_bg': '#ffffff', 'entry_fg': '#003366', 'text_bg': '#ffffff', 'text_fg': '#003366', 'button_bg': '#007acc', 'button_fg': '#ffffff', 'label_bg': '#cce0ff', 'label_fg': '#003366'}
+[2025-07-03 17:57:39] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 17:57:39] INFO: 应用启动成功
+[2025-07-03 18:02:54] INFO: 主题配置已从 JSON 加载: {'bg': '#e6f0ff', 'fg': '#003366', 'entry_bg': '#ffffff', 'entry_fg': '#003366', 'text_bg': '#ffffff', 'text_fg': '#003366', 'button_bg': '#007acc', 'button_fg': '#ffffff', 'label_bg': '#cce0ff', 'label_fg': '#003366'}
+[2025-07-03 18:02:54] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 18:02:55] INFO: 应用启动成功
+[2025-07-03 18:05:38] INFO: 主题配置已从 JSON 加载: {'bg': '#e6f0ff', 'fg': '#003366', 'entry_bg': '#ffffff', 'entry_fg': '#003366', 'text_bg': '#ffffff', 'text_fg': '#003366', 'button_bg': '#007acc', 'button_fg': '#ffffff', 'label_bg': '#cce0ff', 'label_fg': '#003366'}
+[2025-07-03 18:05:39] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 18:05:40] INFO: 应用启动成功
+[2025-07-03 18:05:51] INFO: 主题文件已复制到: C:\Users\Administrator\.minecraft_archive_viewer\data\theme\theme.json
+[2025-07-03 18:05:56] INFO: 主题配置已从 JSON 加载: {'bg': '#f0f0f0', 'fg': 'black', 'entry_bg': 'white', 'entry_fg': 'black', 'text_bg': 'white', 'text_fg': 'black', 'button_bg': '#4CAF50', 'button_fg': 'white', 'label_bg': '#f0f0f0', 'label_fg': 'black'}
+[2025-07-03 18:05:57] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 18:05:58] INFO: 应用启动成功
+[2025-07-03 18:22:14] INFO: 主题配置已从 JSON 加载: {'bg': '#f0f0f0', 'fg': 'black', 'entry_bg': 'white', 'entry_fg': 'black', 'text_bg': 'white', 'text_fg': 'black', 'button_bg': '#4CAF50', 'button_fg': 'white', 'label_bg': '#f0f0f0', 'label_fg': 'black'}
+[2025-07-03 18:22:14] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 18:22:15] INFO: 应用启动成功
+[2025-07-03 18:22:59] INFO: 主题配置已从 JSON 加载: {'bg': '#f0f0f0', 'fg': 'black', 'entry_bg': 'white', 'entry_fg': 'black', 'text_bg': 'white', 'text_fg': 'black', 'button_bg': '#4CAF50', 'button_fg': 'white', 'label_bg': '#f0f0f0', 'label_fg': 'black'}
+[2025-07-03 18:22:59] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 18:23:00] INFO: 应用启动成功
+[2025-07-03 18:24:25] INFO: 主题配置已从 JSON 加载: {'bg': '#f0f0f0', 'fg': 'black', 'entry_bg': 'white', 'entry_fg': 'black', 'text_bg': 'white', 'text_fg': 'black', 'button_bg': '#4CAF50', 'button_fg': 'white', 'label_bg': '#f0f0f0', 'label_fg': 'black'}
+[2025-07-03 18:24:25] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 18:24:26] INFO: 应用启动成功
+[2025-07-03 18:25:01] INFO: 主题配置已从 JSON 加载: {'bg': '#f0f0f0', 'fg': 'black', 'entry_bg': 'white', 'entry_fg': 'black', 'text_bg': 'white', 'text_fg': 'black', 'button_bg': '#4CAF50', 'button_fg': 'white', 'label_bg': '#f0f0f0', 'label_fg': 'black'}
+[2025-07-03 18:25:01] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 18:25:02] INFO: 应用启动成功
+[2025-07-03 18:26:31] INFO: 主题配置已从 JSON 加载: {'bg': '#f0f0f0', 'fg': 'black', 'entry_bg': 'white', 'entry_fg': 'black', 'text_bg': 'white', 'text_fg': 'black', 'button_bg': '#4CAF50', 'button_fg': 'white', 'label_bg': '#f0f0f0', 'label_fg': 'black'}
+[2025-07-03 18:26:31] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 18:26:31] INFO: 应用启动成功
+[2025-07-03 18:27:32] INFO: 主题配置已从 JSON 加载: {'bg': '#f0f0f0', 'fg': 'black', 'entry_bg': 'white', 'entry_fg': 'black', 'text_bg': 'white', 'text_fg': 'black', 'button_bg': '#4CAF50', 'button_fg': 'white', 'label_bg': '#f0f0f0', 'label_fg': 'black'}
+[2025-07-03 18:27:33] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 18:27:34] INFO: 应用启动成功
+[2025-07-03 18:27:53] INFO: 主题配置已从 JSON 加载: {'bg': '#f0f0f0', 'fg': 'black', 'entry_bg': 'white', 'entry_fg': 'black', 'text_bg': 'white', 'text_fg': 'black', 'button_bg': '#4CAF50', 'button_fg': 'white', 'label_bg': '#f0f0f0', 'label_fg': 'black'}
+[2025-07-03 18:27:54] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 18:27:54] INFO: 应用启动成功
+[2025-07-03 18:28:12] INFO: 主题配置已从 JSON 加载: {'bg': '#f0f0f0', 'fg': 'black', 'entry_bg': 'white', 'entry_fg': 'black', 'text_bg': 'white', 'text_fg': 'black', 'button_bg': '#4CAF50', 'button_fg': 'white', 'label_bg': '#f0f0f0', 'label_fg': 'black'}
+[2025-07-03 18:28:12] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 18:28:13] INFO: 应用启动成功
+[2025-07-03 18:29:21] INFO: 主题配置已从 JSON 加载: {'bg': '#f0f0f0', 'fg': 'black', 'entry_bg': 'white', 'entry_fg': 'black', 'text_bg': 'white', 'text_fg': 'black', 'button_bg': '#4CAF50', 'button_fg': 'white', 'label_bg': '#f0f0f0', 'label_fg': 'black'}
+[2025-07-03 18:29:22] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 18:29:23] INFO: 应用启动成功
+[2025-07-03 18:32:29] INFO: 主题配置已从 JSON 加载: {'bg': '#f0f0f0', 'fg': 'black', 'entry_bg': 'white', 'entry_fg': 'black', 'text_bg': 'white', 'text_fg': 'black', 'button_bg': '#4CAF50', 'button_fg': 'white', 'label_bg': '#f0f0f0', 'label_fg': 'black'}
+[2025-07-03 18:32:29] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 18:32:30] INFO: 应用启动成功
+[2025-07-03 18:33:14] INFO: 主题配置已从 JSON 加载: {'bg': '#f0f0f0', 'fg': 'black', 'entry_bg': 'white', 'entry_fg': 'black', 'text_bg': 'white', 'text_fg': 'black', 'button_bg': '#4CAF50', 'button_fg': 'white', 'label_bg': '#f0f0f0', 'label_fg': 'black'}
+[2025-07-03 18:33:15] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 18:33:16] INFO: 应用启动成功
+[2025-07-03 18:33:32] INFO: 主题配置已从 JSON 加载: {'bg': '#f0f0f0', 'fg': 'black', 'entry_bg': 'white', 'entry_fg': 'black', 'text_bg': 'white', 'text_fg': 'black', 'button_bg': '#4CAF50', 'button_fg': 'white', 'label_bg': '#f0f0f0', 'label_fg': 'black'}
+[2025-07-03 18:33:34] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 18:33:34] INFO: 应用启动成功
+[2025-07-03 18:34:05] INFO: 主题配置已从 JSON 加载: {'bg': '#f0f0f0', 'fg': 'black', 'entry_bg': 'white', 'entry_fg': 'black', 'text_bg': 'white', 'text_fg': 'black', 'button_bg': '#4CAF50', 'button_fg': 'white', 'label_bg': '#f0f0f0', 'label_fg': 'black'}
+[2025-07-03 18:34:06] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 18:34:07] INFO: 应用启动成功
+[2025-07-03 18:34:56] INFO: 主题配置已从 JSON 加载: {'bg': '#f0f0f0', 'fg': 'black', 'entry_bg': 'white', 'entry_fg': 'black', 'text_bg': 'white', 'text_fg': 'black', 'button_bg': '#4CAF50', 'button_fg': 'white', 'label_bg': '#f0f0f0', 'label_fg': 'black'}
+[2025-07-03 18:34:56] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 18:34:57] INFO: 应用启动成功
+[2025-07-03 18:35:03] INFO: 主题配置已从 JSON 加载: {'bg': '#f0f0f0', 'fg': 'black', 'entry_bg': 'white', 'entry_fg': 'black', 'text_bg': 'white', 'text_fg': 'black', 'button_bg': '#4CAF50', 'button_fg': 'white', 'label_bg': '#f0f0f0', 'label_fg': 'black'}
+[2025-07-03 18:35:04] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 18:35:04] INFO: 应用启动成功
+[2025-07-03 18:37:30] INFO: 主题配置已从 JSON 加载: {'bg': '#f0f0f0', 'fg': 'black', 'entry_bg': 'white', 'entry_fg': 'black', 'text_bg': 'white', 'text_fg': 'black', 'button_bg': '#4CAF50', 'button_fg': 'white', 'label_bg': '#f0f0f0', 'label_fg': 'black'}
+[2025-07-03 18:37:30] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 18:37:31] INFO: 应用启动成功
+[2025-07-03 18:38:04] INFO: 主题配置已从 JSON 加载: {'bg': '#f0f0f0', 'fg': 'black', 'entry_bg': 'white', 'entry_fg': 'black', 'text_bg': 'white', 'text_fg': 'black', 'button_bg': '#4CAF50', 'button_fg': 'white', 'label_bg': '#f0f0f0', 'label_fg': 'black'}
+[2025-07-03 18:38:04] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 18:38:05] INFO: 应用启动成功
+[2025-07-03 18:40:12] INFO: 主题配置已从 JSON 加载: {'bg': '#f0f0f0', 'fg': 'black', 'entry_bg': 'white', 'entry_fg': 'black', 'text_bg': 'white', 'text_fg': 'black', 'button_bg': '#4CAF50', 'button_fg': 'white', 'label_bg': '#f0f0f0', 'label_fg': 'black'}
+[2025-07-03 18:40:12] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 18:40:13] INFO: 应用启动成功
+[2025-07-03 18:40:37] INFO: 主题配置已从 JSON 加载: {'bg': '#f0f0f0', 'fg': 'black', 'entry_bg': 'white', 'entry_fg': 'black', 'text_bg': 'white', 'text_fg': 'black', 'button_bg': '#4CAF50', 'button_fg': 'white', 'label_bg': '#f0f0f0', 'label_fg': 'black'}
+[2025-07-03 18:40:38] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 18:40:39] INFO: 应用启动成功
+[2025-07-03 18:40:54] INFO: 主题配置已从 JSON 加载: {'bg': '#f0f0f0', 'fg': 'black', 'entry_bg': 'white', 'entry_fg': 'black', 'text_bg': 'white', 'text_fg': 'black', 'button_bg': '#4CAF50', 'button_fg': 'white', 'label_bg': '#f0f0f0', 'label_fg': 'black'}
+[2025-07-03 18:40:54] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 18:40:55] INFO: 应用启动成功
+[2025-07-03 18:42:19] INFO: 主题配置已从 JSON 加载: {'bg': '#f0f0f0', 'fg': 'black', 'entry_bg': 'white', 'entry_fg': 'black', 'text_bg': 'white', 'text_fg': 'black', 'button_bg': '#4CAF50', 'button_fg': 'white', 'label_bg': '#f0f0f0', 'label_fg': 'black'}
+[2025-07-03 18:42:20] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 18:42:20] INFO: 应用启动成功
+[2025-07-03 18:42:52] INFO: 主题配置已从 JSON 加载: {'bg': '#f0f0f0', 'fg': 'black', 'entry_bg': 'white', 'entry_fg': 'black', 'text_bg': 'white', 'text_fg': 'black', 'button_bg': '#4CAF50', 'button_fg': 'white', 'label_bg': '#f0f0f0', 'label_fg': 'black'}
+[2025-07-03 18:42:53] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 18:42:54] INFO: 应用启动成功
+[2025-07-03 18:46:51] INFO: 主题配置已从 JSON 加载: {'bg': '#f0f0f0', 'fg': 'black', 'entry_bg': 'white', 'entry_fg': 'black', 'text_bg': 'white', 'text_fg': 'black', 'button_bg': '#4CAF50', 'button_fg': 'white', 'label_bg': '#f0f0f0', 'label_fg': 'black'}
+[2025-07-03 18:46:51] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 18:46:53] INFO: 应用启动成功
+[2025-07-03 18:48:49] INFO: 主题配置已从 JSON 加载: {'bg': '#f0f0f0', 'fg': 'black', 'entry_bg': 'white', 'entry_fg': 'black', 'text_bg': 'white', 'text_fg': 'black', 'button_bg': '#4CAF50', 'button_fg': 'white', 'label_bg': '#f0f0f0', 'label_fg': 'black'}
+[2025-07-03 18:48:49] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 18:48:50] INFO: 应用启动成功
+[2025-07-03 18:51:35] INFO: 主题配置已从 JSON 加载: {'bg': '#f0f0f0', 'fg': 'black', 'entry_bg': 'white', 'entry_fg': 'black', 'text_bg': 'white', 'text_fg': 'black', 'button_bg': '#4CAF50', 'button_fg': 'white', 'label_bg': '#f0f0f0', 'label_fg': 'black'}
+[2025-07-03 18:51:36] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 18:51:36] INFO: 应用启动成功
+[2025-07-03 18:56:43] INFO: 主题配置已从 JSON 加载: {'bg': '#f0f0f0', 'fg': 'black', 'entry_bg': 'white', 'entry_fg': 'black', 'text_bg': 'white', 'text_fg': 'black', 'button_bg': '#4CAF50', 'button_fg': 'white', 'label_bg': '#f0f0f0', 'label_fg': 'black'}
+[2025-07-03 18:56:44] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 18:56:44] INFO: 应用启动成功
+[2025-07-03 18:57:02] INFO: 主题配置已从 JSON 加载: {'bg': '#f0f0f0', 'fg': 'black', 'entry_bg': 'white', 'entry_fg': 'black', 'text_bg': 'white', 'text_fg': 'black', 'button_bg': '#4CAF50', 'button_fg': 'white', 'label_bg': '#f0f0f0', 'label_fg': 'black'}
+[2025-07-03 18:57:02] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 18:57:03] INFO: 应用启动成功
+[2025-07-03 18:57:27] INFO: 主题配置已从 JSON 加载: {'bg': '#f0f0f0', 'fg': 'black', 'entry_bg': 'white', 'entry_fg': 'black', 'text_bg': 'white', 'text_fg': 'black', 'button_bg': '#4CAF50', 'button_fg': 'white', 'label_bg': '#f0f0f0', 'label_fg': 'black'}
+[2025-07-03 18:57:28] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 18:57:29] INFO: 应用启动成功
+[2025-07-03 18:58:42] INFO: 主题配置已从 JSON 加载: {'bg': '#f0f0f0', 'fg': 'black', 'entry_bg': 'white', 'entry_fg': 'black', 'text_bg': 'white', 'text_fg': 'black', 'button_bg': '#4CAF50', 'button_fg': 'white', 'label_bg': '#f0f0f0', 'label_fg': 'black'}
+[2025-07-03 18:58:43] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 18:58:44] INFO: 应用启动成功
+[2025-07-03 18:59:04] INFO: 主题配置已从 JSON 加载: {'bg': '#f0f0f0', 'fg': 'black', 'entry_bg': 'white', 'entry_fg': 'black', 'text_bg': 'white', 'text_fg': 'black', 'button_bg': '#4CAF50', 'button_fg': 'white', 'label_bg': '#f0f0f0', 'label_fg': 'black'}
+[2025-07-03 18:59:05] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 18:59:06] INFO: 应用启动成功
+[2025-07-03 18:59:20] INFO: 主题配置已从 JSON 加载: {'bg': '#f0f0f0', 'fg': 'black', 'entry_bg': 'white', 'entry_fg': 'black', 'text_bg': 'white', 'text_fg': 'black', 'button_bg': '#4CAF50', 'button_fg': 'white', 'label_bg': '#f0f0f0', 'label_fg': 'black'}
+[2025-07-03 18:59:21] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 18:59:21] INFO: 应用启动成功
+[2025-07-03 18:59:27] INFO: 主题文件已复制到: C:\Users\Administrator\.minecraft_archive_viewer\data\theme\theme.json
+[2025-07-03 18:59:34] INFO: 主题配置已从 JSON 加载: {'bg': 'black', 'fg': 'black', 'entry_bg': 'black', 'entry_fg': 'black', 'text_bg': 'black', 'text_fg': 'black', 'button_bg': 'black', 'button_fg': 'black', 'label_bg': 'black', 'label_fg': 'black'}
+[2025-07-03 18:59:34] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 18:59:35] INFO: 应用启动成功
+[2025-07-03 18:59:45] INFO: 主题文件已复制到: C:\Users\Administrator\.minecraft_archive_viewer\data\theme\theme.json
+[2025-07-03 18:59:49] INFO: 主题配置已从 JSON 加载: {'bg': '#f0f0f0', 'fg': 'black', 'entry_bg': 'white', 'entry_fg': 'black', 'text_bg': 'white', 'text_fg': 'black', 'button_bg': '#4CAF50', 'button_fg': 'white', 'label_bg': '#f0f0f0', 'label_fg': 'black'}
+[2025-07-03 18:59:49] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 18:59:50] INFO: 应用启动成功
+[2025-07-03 18:59:59] INFO: 主题配置已从 JSON 加载: {'bg': '#f0f0f0', 'fg': 'black', 'entry_bg': 'white', 'entry_fg': 'black', 'text_bg': 'white', 'text_fg': 'black', 'button_bg': '#4CAF50', 'button_fg': 'white', 'label_bg': '#f0f0f0', 'label_fg': 'black'}
+[2025-07-03 18:59:59] INFO: 图标已加载: icons\mc_icon.ico
+[2025-07-03 19:00:00] INFO: 应用启动成功
