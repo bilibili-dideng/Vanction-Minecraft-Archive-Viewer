@@ -418,13 +418,16 @@ class MinecraftToolGUI:
 
         # 显示背包信息
         output += "\n🎒 玩家背包信息：\n"
-        for item in inventory_info:
-            slot = item.get('槽位', -1)
-            name = item.get('物品ID', '未知').replace('minecraft:', '')
-            count = item.get('数量', 0)
-            nbt = item.get('NBT')
-            formatted_nbt = format_nbt(nbt) if nbt else "无 NBT 数据"
-            output += f"  槽位 {slot}: {name} ×{count}\n     └─ NBT: {formatted_nbt}\n"
+        if inventory_info:
+            for item in inventory_info:
+                slot = item.get('槽位', -1)
+                name = item.get('物品ID', '未知').replace('minecraft:', '')
+                count = item.get('数量') + 1
+                nbt = item.get('NBT')
+                formatted_nbt = format_nbt(nbt) if nbt else "无 NBT 数据"
+                output += f"  槽位 {slot}: {name} ×{count}\n     └─ NBT: {formatted_nbt}\n"
+        else:
+            output += "  您的物品栏无内容\n"
 
         # 更新显示内容
         self.show_text.config(state='normal')

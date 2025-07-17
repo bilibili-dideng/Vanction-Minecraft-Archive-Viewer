@@ -1,6 +1,7 @@
 # mc_saver.py
 
 import os
+from tkinter import messagebox
 import nbtlib
 
 
@@ -25,12 +26,11 @@ def nbt_to_primitive(nbt_data, max_depth=32):
 
 class MinecraftSaver:
     def __init__(self, world_path):
-        self.world_path = world_path
-        self.level_dat = self._load_level_dat()
-
+            self.world_path = world_path
+            self.level_dat = self._load_level_dat()
     def _load_level_dat(self):
-        level_path = os.path.join(self.world_path, "level.dat")
-        return nbtlib.load(level_path)
+            level_path = os.path.join(self.world_path, "level.dat")
+            return nbtlib.load(level_path)
 
     def get_world_info(self):
         data = self.level_dat['Data']
